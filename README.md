@@ -62,7 +62,7 @@ Beyond my coursework, I immerse myself in financial news, analyze diverse busine
 
 Let’s connect and grow together through learning, collaboration, and meaningful opportunities.
 
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
+<a href="https://linkedin.com/in/yug-agarwal-4b9601335" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
